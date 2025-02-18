@@ -1,0 +1,21 @@
+{
+  "collectionName": "test",
+  "title": "",
+  "manifests": [
+    "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:vx027n225/info.json",
+    "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:vd673546f/info.json",
+    "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bn99hd71v/info.json",
+    "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368087~90135375/info.json",
+    "https://framemark.vam.ac.uk/collections/2010EE5503/info.json",
+    "https://framemark.vam.ac.uk/collections/2006AU9062/info.json",
+    "https://tile.loc.gov/image-services/iiif/service:gmd:gmd9:g9930:g9930:ct001173/info.json",
+    "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:vd673546f/info.json",
+    "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:bn99hd71v/info.json",
+    "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368087~90135375/info.json",
+    "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281766~90054435/info.json",
+    "https://framemark.vam.ac.uk/collections/2010EE5503/info.json",
+    "https://framemark.vam.ac.uk/collections/2006AU9062/info.json",
+    "https://tile.loc.gov/image-services/iiif/service:gmd:gmd9:g9930:g9930:ct001173/info.json",
+    "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281766~90054435/info.json"
+  ]
+}
