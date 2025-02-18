@@ -1,0 +1,8 @@
+{
+  "collectionName": "portolantest",
+  "title": "",
+  "manifests": [
+    "https://tile.loc.gov/image-services/iiif/service:gmd:gmd5:g5672:g5672m:ct002457/info.json",
+    "https://tile.loc.gov/image-services/iiif/service:gmd:gmd5:g5672:g5672m:ct003875/info.json"
+  ]
+}
